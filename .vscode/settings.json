@@ -1,0 +1,8 @@
+{
+    "cSpell.customDictionaries": {
+        "AndreaRoles": {
+            "path": "./.vscode/cspell-roles.txt",
+            "addWords": true
+        }
+    }
+}
